@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salazar1971
-- 👀 I’m interested in M5Stack and music projects
+- 👀 I’m interested in M5Stack and Music projects
 - 🌱 I’m currently learning Python
 
 
